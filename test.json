@@ -1,9 +1,0 @@
-{
-    "url": "https://raw.githubusercontent.com/nghiatrong016/swagger_test/refs/heads/main/test.yml",
-    "urls": [
-        {
-            "url": "https://raw.githubusercontent.com/nghiatrong016/swagger_test/refs/heads/main/test.yml",
-            "name": "morty"
-        }
-    ]
-}
